@@ -1,0 +1,10 @@
+C:\Users\Ivan\source\repos\Prosjek ocjena\Prosjek ocjena\bin\Debug\Prosjek ocjena.exe.config
+C:\Users\Ivan\source\repos\Prosjek ocjena\Prosjek ocjena\bin\Debug\Prosjek ocjena.exe
+C:\Users\Ivan\source\repos\Prosjek ocjena\Prosjek ocjena\bin\Debug\Prosjek ocjena.pdb
+C:\Users\Ivan\source\repos\Prosjek ocjena\Prosjek ocjena\obj\Debug\Prosjek ocjena.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Prosjek ocjena\Prosjek ocjena\obj\Debug\Prosjek_ocjena.Form1.resources
+C:\Users\Ivan\source\repos\Prosjek ocjena\Prosjek ocjena\obj\Debug\Prosjek_ocjena.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Prosjek ocjena\Prosjek ocjena\obj\Debug\Prosjek ocjena.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Prosjek ocjena\Prosjek ocjena\obj\Debug\Prosjek ocjena.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Prosjek ocjena\Prosjek ocjena\obj\Debug\Prosjek ocjena.exe
+C:\Users\Ivan\source\repos\Prosjek ocjena\Prosjek ocjena\obj\Debug\Prosjek ocjena.pdb
